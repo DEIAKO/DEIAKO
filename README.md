@@ -1,5 +1,9 @@
 ## Hi there 👋
+# Hello, I'm SAMUEL HTAMU!
 
+Welcome to my GitHub profile! I'm passionate about coding and technology, and I love to contribute to open source projects. My interests include software development, web applications, and exploring new programming languages.
+
+Feel free to check out my repositories and reach out if you'd like to collaborate!
 <!--
 **DEIAKO/DEIAKO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

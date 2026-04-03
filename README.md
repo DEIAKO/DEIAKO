@@ -37,15 +37,9 @@ I am a Computer Science student with a passion for building scalable application
 
 ---
 
-### 📊 GitHub Stats
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical)
-
----
-
 ### 📫 Let's Connect!
-- 💼 **LinkedIn:** [Link to your profile]
-- 📧 **Email:** [Your Email]
+- 💼 **LinkedIn:** (https://www.linkedin.com/in/samuel-tvmu/)
+- 📧 **Email:** (htamusamuel1@gmail.com)
 - 📍 **Location:** Baguio City, Philippines 🏔️
 
 *"Turning data into intelligence, one line of code at a time."*

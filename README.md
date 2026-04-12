@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Samuel Htamu 
-### Aspiring Machine Learning Engineer | Data Analyst Intern | CS @ University of the Cordilleras
+### Aspiring Machine Learning Engineer | Full Stack Software Engineer | CS @ University of the Cordilleras
 
 I am a Computer Science student with a passion for building scalable applications and uncovering insights through data. Currently, I am deep-diving into **LLMs** and **Deep Learning** while bridging the gap between Full-Stack Development and Data Science.
 
@@ -18,8 +18,8 @@ I am a Computer Science student with a passion for building scalable application
 | :--- | :--- |
 | **Languages** | Python, JavaScript (ES6+), Dart, SQL |
 | **Data & AI** | Machine Learning Foundations, LLMs, Deep Learning |
-| **Front-End** | React JS, Flutter |
-| **Back-End** | Node.js, Express, REST APIs |
+| **Front-End** | React JS, Flutter, Next Js |
+| **Back-End** | Node.js, Express, REST APIs, Supabase |
 | **DevOps** | Deployment & Hosting, Git/GitHub |
 
 ---
@@ -29,4 +29,3 @@ I am a Computer Science student with a passion for building scalable application
 - 📧 **Email:** (htamusamuel1@gmail.com)
 - 📍 **Location:** Baguio City, Philippines 🏔️
 
-*"Turning data into intelligence, one line of code at a time."*

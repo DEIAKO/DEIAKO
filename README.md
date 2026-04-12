@@ -24,19 +24,6 @@ I am a Computer Science student with a passion for building scalable application
 
 ---
 
-### 📈 Featured Projects
-
-#### 🤖 [Project Name - e.g., ML Sentiment Tracker]
-* **What it does:** Analyzes real-time data using Python and ML foundations.
-* **Tech:** Python, Pandas, Scikit-learn.
-* **Key Insight:** Improved data processing speed by 20%.
-
-#### 📱 [Project Name - e.g., Flutter Portfolio App]
-* **What it does:** A cross-platform mobile app deployed for personal software management.
-* **Tech:** Flutter, Dart, Firebase.
-
----
-
 ### 📫 Let's Connect!
 - 💼 **LinkedIn:** (https://www.linkedin.com/in/samuel-tvmu/)
 - 📧 **Email:** (htamusamuel1@gmail.com)
